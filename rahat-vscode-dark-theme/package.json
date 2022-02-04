@@ -1,0 +1,23 @@
+{
+    "name": "rahat-vscode-dark-theme",
+    "displayName": "Rahat VsCode Dark Theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "RahatHassan",
+    
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rahat VsCode Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rahat VsCode Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
